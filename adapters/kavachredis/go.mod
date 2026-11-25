@@ -3,7 +3,7 @@ module github.com/kavachlabs/kavach-go/adapters/kavachredis
 go 1.23
 
 require (
-	github.com/kavachlabs/kavach-go v0.2.1
+	github.com/kavachlabs/kavach-go v0.3.0
 	github.com/redis/go-redis/v9 v9.17.1
 )
 

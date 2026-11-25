@@ -3,7 +3,7 @@ module github.com/kavachlabs/kavach-go/adapters/kavachkgo
 go 1.24.0
 
 require (
-	github.com/kavachlabs/kavach-go v0.2.1
+	github.com/kavachlabs/kavach-go v0.3.0
 	github.com/twmb/franz-go v1.20.5
 )
 

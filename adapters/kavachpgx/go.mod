@@ -4,7 +4,7 @@ go 1.25.0
 
 require (
 	github.com/jackc/pgx/v5 v5.9.2
-	github.com/kavachlabs/kavach-go v0.2.1
+	github.com/kavachlabs/kavach-go v0.3.0
 )
 
 require (
