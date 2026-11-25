@@ -1,3 +1,5 @@
+github.com/kavachlabs/kavach-go v0.2.1 h1:YBsYtXGgkUMu5SvnJipq87gPa9iGp3hNQyvoEv+xE4Q=
+github.com/kavachlabs/kavach-go v0.2.1/go.mod h1:PlRvjV4lelETM7i/Rboe47tiFxTGOCquhacFh3/Rboc=
 github.com/klauspost/compress v1.18.1 h1:bcSGx7UbpBqMChDtsF28Lw6v/G94LPrrbMbdC3JH2co=
 github.com/klauspost/compress v1.18.1/go.mod h1:ZQFFVG+MdnR0P+l6wpXgIL4NTtwiKIdBnrBd8Nrxr+0=
 github.com/pierrec/lz4/v4 v4.1.22 h1:cKFw6uJDK+/gfw5BcDL0JL5aBsAFdsIT18eRtLj7VIU=
